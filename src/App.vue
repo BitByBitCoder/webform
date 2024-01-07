@@ -8,6 +8,7 @@ import SignupForm from "./components/SignupForm.vue";
   <div>
     <SignupForm />
   </div>
+  <h1>PUSH</h1>
 </template>
 
 <style scoped></style>
